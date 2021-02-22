@@ -1,0 +1,10 @@
+//создали файл для реэкспорта файлов 
+export { default as Button } from './Button'
+export { default as Categories } from './Categories'
+export { default as Header } from './Header'
+export { default as SortPopup } from './SortPopup'
+export { default as PizzaBlock } from '../components/PizzaBlock'
+export { default as PizzaLoadingBlock } from '../components/PizzaBlock/PizzaLoadingBlock'
+export { default as CartItem } from './CartItem'
+
+

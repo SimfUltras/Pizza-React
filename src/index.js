@@ -19,3 +19,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+
+// "server": "npx json-server --watch public/db.json --port=3001"
